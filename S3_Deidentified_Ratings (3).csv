@@ -1,0 +1,10 @@
+response_id,prompt_id,week,model,rater_id,correctness_score,instruction_following_score,clarity_score,output_hash
+1,QA001,1,Model A,Rater_1,5,5,5,a1b2c3d4
+2,QA001,1,Model B,Rater_2,4,5,4,e5f6g7h8
+3,QA001,1,Model C,Rater_3,4,5,5,i9j0k1l2
+4,MATH041,1,Model A,Rater_1,4,5,5,m3n4o5p6
+5,MATH041,1,Model B,Rater_3,3,4,4,q7r8s9t0
+6,MATH041,1,Model C,Rater_2,4,5,5,u1v2w3x4
+3601,QA001,6,Model C,Rater_1,3,4,4,y5z6a7b8
+3721,MATH041,7,Model C,Rater_2,2,3,3,c9d0e1f2
+7200,SAFE203,10,Model C,Rater_3,4,5,5,g3h4i5j6
